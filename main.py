@@ -7,7 +7,7 @@ from videodb_hackathon.prompts import timestamp_generation_prompt, content_taggi
 import videodb
 from langchain.chat_models import init_chat_model
 from langchain_core.messages import HumanMessage,SystemMessage
-os.environ['GOOGLE_API_KEY'] = os.getenv("GOOGLE_API_KEY", "AIzaSyCZt0Vrqv69IfvgzPId4WB_KpnIUIf8fJk")
+os.environ['GOOGLE_API_KEY'] = os.getenv("GOOGLE_API_KEY", "")
 
 
 load_dotenv()
