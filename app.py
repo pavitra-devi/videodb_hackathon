@@ -8,6 +8,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed", # Optional: collapse sidebar by default
 )
 
+
 # --- Custom CSS for a Clean, Gemini-like Theme ---
 st.markdown("""
     <style>
