@@ -20,9 +20,6 @@ def upload_video(path):
 # video = upload_video("https://www.youtube.com/watch?v=yfsTZbwgMSE")
 # video =upload_video("https://www.youtube.com/watch?v=DNBaUCCST3I")
 
-def new_function():
-    pass
-
 def index_video(video):
     # video.index_spoken_words()
     # text_json = video.get_transcript()

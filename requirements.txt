@@ -1,4 +1,4 @@
 videodb
 python-dotenv
 langchain
-langchain-google-gena
+langchain-google-genai
