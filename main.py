@@ -143,7 +143,7 @@ def run_video_agent(question: str, video_url: str):
     # result = graph.invoke(state)
     # return result
 
-if __name__ == "__main__":
-    question = "Why LLM is being referred as stochastic parrot?"
-    video_url = "https://www.youtube.com/watch?v=67_aMPDk2zw"
-    run_video_agent(question, video_url)
+# if __name__ == "__main__":
+#     question = "Why LLM is being referred as stochastic parrot?"
+#     video_url = "https://www.youtube.com/watch?v=67_aMPDk2zw"
+#     run_video_agent(question, video_url)
